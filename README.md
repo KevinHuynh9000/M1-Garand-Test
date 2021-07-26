@@ -1,10 +1,10 @@
 What My automation script does:
-1. Takes you to google homepage
-2. Searches M1 Garand Serial Number
-3. Clicks the link http://usriflecal30m1.com/ProductionGraph.aspx
-4. Clicks on M1 Garand Master List
-5. Clicks on 2 on the page list 
-6. Mouse overs M1 Garand
-7. Clicks My Garand 
-8. Types 5746876
-9. Clicks "Create Component List"
+1. Takes you M1 Garand Website
+2. Clicks on the Production tab
+3. Teleports to parts to the page
+4. Clicks on the My Garand Tab
+5. Enters my serial number
+6. Clicks on Harrington and Richardson   
+7. Clicks create componenets
+8. Teleports to parts of the website
+9. Enters youtube link with video
